@@ -4,4 +4,5 @@
  Marquee Tag,
  Iframe,
  Audio,
- Video
+ Video,
+ Google Map
